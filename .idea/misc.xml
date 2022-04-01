@@ -3,9 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/layout/activity_create_account.xml" value="0.26811594202898553" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/drawable-anydpi/ic_action_add.xml" value="0.136" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/drawable/activity_com_build_details.xml" value="0.1" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/drawable/ic_gaming_logo.xml" value="0.1" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/drawable/ic_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/drawable/ic_search.xml" value="0.1" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/layout/activity_community_build_details.xml" value="0.33" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/layout/activity_community_builds.xml" value="0.25" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/layout/activity_create_account.xml" value="0.22" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/layout/activity_current_characters.xml" value="0.14375261178437107" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/layout/activity_item_builder.xml" value="0.14375261178437107" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/layout/activity_list.xml" value="0.25" />
         <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/layout/activity_login.xml" value="0.33" />
-        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/layout/activity_main.xml" value="0.26811594202898553" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/layout/activity_popular_builds.xml" value="0.14375261178437107" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/layout/activity_splash_page.xml" value="0.3188405797101449" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/layout/ic_gaming_logo.xml" value="0.17828131680205217" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/layout/main_nav_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/layout/main_top_bar.xml" value="0.17212713936430318" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/layout/model_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Sincere/AndroidStudioProjects/StatsLegend/app/src/main/res/layout/user_build.xml" value="0.2692656391659112" />
       </map>
     </option>
   </component>

@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.statslegend">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -10,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.StatsLegend">
         <activity
-            android:name=".MainActivity"
+            android:name=".SplashPage"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -18,6 +20,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Login" />
+        <activity android:name=".CreateAccount" />
+        <activity android:name=".PopularBuilds" />
+        <activity android:name=".CommunityBuilds" />
+        <activity android:name=".CurrentCharacters" />
+        <activity android:name=".ItemBuilder" />
+        <activity android:name=".CommunityBuildList" />
+        <activity android:name=".CommunityBuildDetails" />
+
+
     </application>
 
 </manifest>
